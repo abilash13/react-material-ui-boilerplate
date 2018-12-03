@@ -1,0 +1,8 @@
+{
+  "short_name": "RCF",
+  "name": "Random Cat Facts",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#3F51B5",
+  "background_color": "#F4F4F4"
+}
