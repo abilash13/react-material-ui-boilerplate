@@ -1,0 +1,10 @@
+{
+  "name": "react-material-ui-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for a React app using Material UI",
+  "main": "src/index.js",
+  "repository": "https://github.com/abilash13/react-material-ui-boilerplate.git",
+  "author": "Abilash Menon <abilashmenon95@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
